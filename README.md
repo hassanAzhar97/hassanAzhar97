@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassanAzhar97
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning iO
+- 🌱 I’m currently learning to become iOS Architect
 - 💞️ I’m looking to collaborate on iOS swift projects
 - 📫 How to reach me hassanazhar97@hotmail.com
 
